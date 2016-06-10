@@ -1,6 +1,7 @@
 # SwiftyCompanion
 
 Simple project to get some informations about 42 students with request to the 42 API.
+Library used : SwityJason, Alamofire, KeyChainSwift
 
 You'll get some informations like the name, mail, phone, location(if connected to the shcool) and the cursus. Current project and still in progress
 
