@@ -6,7 +6,7 @@ You'll get some informations like the name, mail, phone, location(if connected t
 
 Add the login:
 
-![alt tag](http://i.imgur.com/bMREcQx.png?1 "Simply use")
+![alt tag](http://i.imgur.com/JBc0a4J.png?1 "Simply use")
 
 Doesn't exist:
 
